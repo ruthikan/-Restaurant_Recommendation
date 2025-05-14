@@ -32,25 +32,25 @@ The dataset includes details like:
 4. Uses TF-IDF vectorization and cosine similarity to find top 5 similar restaurants.
 5. Displays the most relevant matches.
 
-🚀 Running the Project
+## 🚀 Running the Project
 
-git clone https://github.com/ruthikan/-Restaurant_Recommendation
-cd Restaurant_Recommendation
-python maincode.py
+> git clone https://github.com/ruthikan/-Restaurant_Recommendation<br>
+> cd Restaurant_Recommendation<br>
+> python maincode.py
 
-🧪 Sample Output
+## 🧪 Sample Output
 
-Enter preferred cuisine (e.g., North Indian, Chinese): Italian
-Enter price range (e.g., 1, 2, 3): 2
-Do you prefer online delivery? (Yes/No): Yes
+Enter preferred cuisine (e.g., North Indian, Chinese): Italian<br>
+Enter price range (e.g., 1, 2, 3): 2<br>
+Do you prefer online delivery? (Yes/No): Yes<br>
 
-Top Recommended Restaurants for You:
+Top Recommended Restaurants for You:<br>
 ...
 
-📝 Author
+## 📝 Author
 
-Ruthika Nalajala
-Intern at Cognifyz Technologies
+Ruthika Nalajala <br>
+Intern at Cognifyz Technologies <br>
 LinkedIn: https://www.linkedin.com/in/ruthika-nalajala-73127628b/
 
 🔖 Tags
