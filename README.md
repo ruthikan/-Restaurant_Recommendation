@@ -34,8 +34,8 @@ The dataset includes details like:
 
 ## 🚀 Running the Project
 
-> git clone https://github.com/ruthikan/-Restaurant_Recommendation<br>
-> cd Restaurant_Recommendation<br>
+> git clone https://github.com/ruthikan/Restaurant_Recommendation_Project<br>
+> cd Restaurant_Recommendation_Project<br>
 > python maincode.py
 
 ## 🧪 Sample Output
